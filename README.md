@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/Python-3.11+-f9a825?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/LightGBM-Champion%20★-6a1b9a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/R²-0.9989-00897b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/License-MIT-78909c?style=for-the-badge" />
 
 <br/><br/>
 
