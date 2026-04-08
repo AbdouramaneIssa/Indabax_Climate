@@ -742,114 +742,7 @@ Doit inclure :
 - [ ] Lien de la vidéo de démonstration
 
 </td>
-<td>
 
-### 1️⃣ Prediction Engine *(Technical Core)*
-- Functional, documented Python/R notebook or script
-- Prediction of an air-quality-related target variable (e.g. PM2.5 proxy)
-- Performance justification: metrics, validation, generalisation
-
-### 2️⃣ Interactive Dashboard
-*Tools: Streamlit, Dash, Shiny, FastAPI, Flask (`.pkl`) or equivalent*
-
-Must include:
-- 🗺️ Air pollution heatmap
-- 📊 Climate vs air quality comparison
-- 🚦 Simple alert indicators (WHO colour codes)
-
-### 3️⃣ Impact Strategy & Communication
-- **Pitch deck:** 5-7 slides (PDF)
-- **Demo video:** max 3 minutes
-- *(Optional)* Short technical report
-
-### 📤 Final Submission
-- [ ] Source code (GitHub repo or notebook)
-- [ ] Dashboard access link
-- [ ] Pitch deck (PDF)
-- [ ] Demo video link
-
-</td>
-</tr>
-</table>
-
-> ⚠️ Toute soumission incomplète ou hors délai pourra ne pas être évaluée. · Incomplete or late submissions may not be evaluated.
-
----
-
-## 🏆 Critères d'Évaluation
-
-<table>
-<tr>
-<th width="50%">🇫🇷 Évaluation</th>
-<th width="50%">🇬🇧 Evaluation</th>
-</tr>
-</table>
-
-| Critère / Criterion | Points |
-|---|:---:|
-| 🔬 **Performance technique** — précision, robustesse, qualité code, innovation | **35** |
-| 🌍 **Pertinence sociétale** — impact, faisabilité, adaptation locale au Cameroun | **25** |
-| 🎨 **UX & Design dashboard** — ergonomie, lisibilité, interactivité | **20** |
-| 🎤 **Communication** — clarté pitch, storytelling, qualité démo | **15** |
-| 📄 **Documentation** — clarté & reproductibilité | **5** |
-| **TOTAL** | **100** |
-
-**🎁 Bonus** *(jusqu'à +10 pts) :* Alertes temps réel · API publique · Mobile/PWA · Déploiement cloud & monitoring
-
----
-
-## 👥 Équipe & Participation
-
-<table>
-<tr>
-<th width="50%">🇫🇷 Participer</th>
-<th width="50%">🇬🇧 Who Can Participate</th>
-</tr>
-<tr>
-<td>
-
-### Qui Peut Participer ?
-
-- 🧑‍💻 Data Scientists / Ingénieurs IA
-- 👨‍💻 Développeurs logiciels
-- 🎓 Étudiant·e·s et chercheurs·es
-- 🏥 Professionnels (santé, environnement, agriculture)
-
-**Taille des équipes :** 2 à 4 membres
-
-> ⚠️ **La pluridisciplinarité de genre est obligatoire**
-> 🤝 La pluridisciplinarité d'institution est fortement encouragée
-
-### Prix & Opportunités
-
-Au-delà des récompenses financières, les meilleures équipes bénéficieront :
-- 🎓 D'un accès à un programme de mentorat
-- 👁️ D'une visibilité auprès des institutions partenaires
-- ☁️ D'un accès à des plateformes cloud et outils IA
-
-</td>
-<td>
-
-### Eligibility
-
-- 🧑‍💻 Data Scientists / AI Engineers
-- 👨‍💻 Software Developers
-- 🎓 Students & Researchers
-- 🏥 Health, Environment, or Agriculture professionals
-
-**Team size:** 2 to 4 members
-
-> ⚠️ **Gender diversity is mandatory**
-> 🤝 Cross-institution teams are strongly encouraged
-
-### Prizes & Opportunities
-
-Beyond financial rewards, the best teams will receive:
-- 🎓 Access to a mentorship programme
-- 👁️ Visibility with partner institutions and industry leaders
-- ☁️ Access to cloud platforms and AI tools
-
-</td>
 </tr>
 </table>
 
@@ -937,7 +830,7 @@ Beyond financial rewards, the best teams will receive:
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-*Licence MIT · Open Source · Données Open-Meteo (CC BY 4.0)*
+*Open Source · Données Open-Meteo (CC BY 4.0)*
 
 [![Dashboard](https://img.shields.io/badge/🌐%20Dashboard%20Live-Streamlit-ff4b4b?style=for-the-badge)](https://indabaxclimate-kv4zlieoetpremkwjf7yww.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/📂%20Code%20Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AbdouramaneIssa/Indabax_Climate)
