@@ -9,17 +9,17 @@
 <br/><br/>
 
 ```
-                                                                                            ╔══════════════════════════════════════════════════════════════════════╗
-                                                                                            ║                                                                      ║
-                                                                                            ║        🌍  HACKATHON INDABAX CAMEROON 2026  🌍                      ║
-                                                                                            ║                                                                      ║
-                                                                                            ║     Prédiction de la Qualité de l'Air au Cameroun par PM2.5         ║
-                                                                                            ║     Air Quality Prediction in Cameroon via PM2.5                    ║
-                                                                                            ║                                                                      ║
-                                                                                            ║          « L'IA au service de la résilience climatique »            ║
-                                                                                            ║            "AI for Climate & Health Resilience"                     ║
-                                                                                            ║                                                                      ║
-                                                                                            ╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║        🌍  HACKATHON INDABAX CAMEROON 2026  🌍                      ║
+║                                                                      ║
+║     Prédiction de la Qualité de l'Air au Cameroun par PM2.5          ║
+║     Air Quality Prediction in Cameroon via PM2.5                     ║
+║                                                                      ║
+║          « L'IA au service de la résilience climatique »             ║
+║            "AI for Climate & Health Resilience"                      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ### 🏆 Équipe HBA-Group · Yaoundé, Cameroun · Avril 2026
@@ -778,13 +778,13 @@ joblib>=1.4
 <div align="center">
 
 ```
-                                                                                                ╔═══════════════════════════════════════════════════════════╗
-                                                                                                ║  HBA-Group · Hackathon IndabaX Cameroon 2026              ║
-                                                                                                ║  Yaoundé, Cameroun · Avril 2026                           ║
-                                                                                                ║                                                           ║
-                                                                                                ║  🌱 L'IA au service de la résilience climatique           ║
-                                                                                                ║     AI for Climate & Health Resilience                    ║
-                                                                                                ╚═══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║  HBA-Group · Hackathon IndabaX Cameroon 2026              ║
+║  Yaoundé, Cameroun · Avril 2026                           ║
+║                                                           ║
+║  🌱 L'IA au service de la résilience climatique           ║
+║     AI for Climate & Health Resilience                    ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 *Open Source · Données Open-Meteo (CC BY HBA-Group)*
