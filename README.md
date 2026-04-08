@@ -25,7 +25,7 @@
 
 ### 🏆 Équipe HBA-Group · Yaoundé, Cameroun · Avril 2026
 
-[![Dashboard Live](https://img.shields.io/badge/🌐%20Dashboard%20Live-Streamlit-ff4b4b?style=for-the-badge)](https://indabaxclimate-kv4zlieoetpremkwjf7yww.streamlit.app/)
+[![Dashboard Live](https://img.shields.io/badge/🌐%20Dashboard%20Live-Streamlit-ff4b4b?style=for-the-badge)](https://indabaxclimate-kv4zlieoetpremkwjf7yww.streamlit.app/ et  https://indabaxclimate-app-essai.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/📂%20Code%20Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AbdouramaneIssa/Indabax_Climate)
 
 </div>
