@@ -704,50 +704,6 @@ numpy>=1.26
 plotly>=5.22
 joblib>=1.4
 ```
-
----
-
-## 📋 Livrables Attendus
-
-<table>
-<tr>
-<th width="50%">🇫🇷 Livrables</th>
-<th width="50%">🇬🇧 Deliverables</th>
-</tr>
-<tr>
-<td>
-
-### 1️⃣ Moteur de Prédiction *(Cœur Technique)*
-- Notebook ou script Python/R fonctionnel et documenté
-- Prédiction d'une variable cible liée à la qualité de l'air (ex. proxy PM2.5)
-- Justification des performances : métriques, validation, généralisation
-
-### 2️⃣ Tableau de Bord Interactif
-*Outils : Streamlit, Dash, Shiny, FastAPI, Flask (`.pkl`) ou équivalent*
-
-Doit inclure :
-- 🗺️ Carte de chaleur de la pollution atmosphérique
-- 📊 Comparaison climat vs qualité de l'air
-- 🚦 Indicateurs d'alerte simples (codes couleur OMS)
-
-### 3️⃣ Stratégie d'Impact & Communication
-- **Pitch deck :** 5 à 7 slides (PDF)
-- **Vidéo de démonstration :** 3 minutes maximum
-- *(Optionnel)* Court rapport technique
-
-### 📤 Soumission Finale
-- [ ] Code source (repository GitHub ou notebook)
-- [ ] Lien d'accès au dashboard
-- [ ] Pitch deck (PDF)
-- [ ] Lien de la vidéo de démonstration
-
-</td>
-
-</tr>
-</table>
-
----
-
 ## 🔭 Pistes d'Amélioration · Future Work
 
 <table>
