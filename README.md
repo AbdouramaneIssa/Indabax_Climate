@@ -641,7 +641,7 @@ app.py ──► st.cache_resource (modèle) ───────────�
 
 | Ressource | Lien |
 |---|---|
-| 🟢 **Dashboard Live** | [indabaxclimate-kv4zlieoetpremkwjf7yww.streamlit.app](https://indabaxclimate-kv4zlieoetpremkwjf7yww.streamlit.app/) |
+| 🟢 **Dashboard Live** | [indabaxclimate-kv4zlieoetpremkwjf7yww.streamlit.app](https://indabaxclimate-kv4zlieoetpremkwjf7yww.streamlit.app/ et https://indabaxclimate-app-essai.streamlit.app/) |
 | 📂 **Code Source** | [github.com/AbdouramaneIssa/Indabax_Climate](https://github.com/AbdouramaneIssa/Indabax_Climate) |
 
 ---
